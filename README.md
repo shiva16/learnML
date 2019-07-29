@@ -17,3 +17,6 @@ Some highlights of the course:
 
 ### Machine Learning Crash Course with Tensorflow - Google
 https://developers.google.com/machine-learning/crash-course/
+
+### By @py-ranoid
+https://github.com/py-ranoid/IntroML
